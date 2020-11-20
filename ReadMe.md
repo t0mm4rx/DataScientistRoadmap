@@ -2,7 +2,7 @@
 
 ## What's this list ?
 
-It's hard to have a clear view on what to learn and what to know to be employable. Especially when you're not in a classical university.
+It's hard to have a clear view on what to learn and what to know to be employable. Especially when you're not in a traditional cursus.
 
 This list is a compilation of most-wanted skills for data scientist **based on online job offers**.
 
