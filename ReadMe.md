@@ -36,6 +36,7 @@ The lists are **ordered by frequence of mentionning** in the offers.
 - **Complexity estimation**.
 - **Graph theory**.
 - **Approximation algorithm**.
+- **K-nearest neigbours**.
 
 ### Machine Learning
 
